@@ -17,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoRaX00&layout=donut&hide=HTML,CSS,JavaScript,Makefile)](https://github.com/anuraghazra/github-readme-stats)
-[![VoRaX00's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoRaX00&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![VoRaX00's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoRaX00&show_icons=true&theme=tokyonight&hide=issues&line_height=34)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL-REACT)](https://github.com/VoRaX00/URAL-REACT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=homework_bot)](https://github.com/VoRaX00/homework_bot)

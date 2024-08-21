@@ -16,14 +16,14 @@
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoRaX00&layout=donut&hide=HTML,CSS,JavaScript,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoRaX00&theme=tokyonight&layout=donut&hide=HTML,CSS,JavaScript,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 [![VoRaX00's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoRaX00&show_icons=true&theme=tokyonight&hide=issues&line_height=34)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL-REACT)](https://github.com/VoRaX00/URAL-REACT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=homework_bot)](https://github.com/VoRaX00/homework_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL-REACT&theme=tokyonight)](https://github.com/VoRaX00/URAL-REACT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=homework_bot&theme=tokyonight)](https://github.com/VoRaX00/homework_bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Todo-App)](https://github.com/VoRaX00/Todo-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL)](https://github.com/VoRaX00/URAL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Todo-App&theme=tokyonight)](https://github.com/VoRaX00/Todo-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL&theme=tokyonight)](https://github.com/VoRaX00/URAL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Go-Jwt)](https://github.com/VoRaX00/Go-Jwt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Site-CV-server)](https://github.com/VoRaX00/Site-CV-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Go-Jwt&theme=tokyonight)](https://github.com/VoRaX00/Go-Jwt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Site-CV-server&theme=tokyonight)](https://github.com/VoRaX00/Site-CV-server)

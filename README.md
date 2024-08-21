@@ -27,3 +27,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Go-Jwt&theme=tokyonight)](https://github.com/VoRaX00/Go-Jwt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Site-CV-server&theme=tokyonight)](https://github.com/VoRaX00/Site-CV-server)
+
+### Where to find me ###
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/VoRaX00)
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/NikitaKerzhakov)
+[![Gmail](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk)](https://vk.com/kerzhakov)

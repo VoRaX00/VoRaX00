@@ -26,7 +26,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL&theme=tokyonight)](https://github.com/VoRaX00/URAL)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Go-Jwt&theme=tokyonight)](https://github.com/VoRaX00/Go-Jwt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Site-CV-server&theme=tokyonight)](https://github.com/VoRaX00/Site-CV-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Site-CV-server&theme=tokyonight)](https://github.com/VoRaX00/task-plan)
 
 ### Where to find me ###
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/VoRaX00)

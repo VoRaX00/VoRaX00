@@ -13,8 +13,13 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=dotnet&logoColor=baacc7)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=green)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSql-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
+![JS](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
+![REACT.JS](https://img.shields.io/badge/REACT.JS-black?style=for-the-badge&logo=react)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoRaX00&theme=tokyonight&layout=donut&hide=HTML,CSS,JavaScript,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 [![VoRaX00's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoRaX00&show_icons=true&theme=tokyonight&hide=issues&line_height=34)](https://github.com/anuraghazra/github-readme-stats)

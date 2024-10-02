@@ -34,6 +34,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=task-plan&theme=tokyonight)](https://github.com/VoRaX00/task-plan)
 
 ### Where to find me ###
-[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/VoRaX00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikita-kerzhakov-885027330/)
 [![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/NikitaKerzhakov)
 [![Gmail](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk)](https://vk.com/kerzhakov)

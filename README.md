@@ -24,27 +24,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoRaX00&theme=tokyonight&layout=donut&hide=HTML,CSS,JavaScript,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 [![VoRaX00's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoRaX00&show_icons=true&theme=tokyonight&hide=issues&line_height=34)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/VoRaX00/URAL-REACT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL-REACT&theme=tokyonight" alt="URAL-REACT">
-  </a>
-  <a href="https://github.com/VoRaX00/homework_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=homework_bot&theme=tokyonight" alt="homework_bot">
-  </a>
-  <a href="https://github.com/VoRaX00/Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Todo-App&theme=tokyonight" alt="Todo-App">
-  </a>
-  <a href="https://github.com/VoRaX00/URAL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL&theme=tokyonight" alt="URAL">
-  </a>
-  <a href="https://github.com/VoRaX00/Dentistry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Dentistry&theme=tokyonight" alt="Dentistry">
-  </a>
-  <a href="https://github.com/VoRaX00/task-plan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=task-plan&theme=tokyonight" alt="task-plan">
-  </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL-REACT&theme=tokyonight)](https://github.com/VoRaX00/URAL-REACT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=homework_bot&theme=tokyonight)](https://github.com/VoRaX00/homework_bot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Todo-App&theme=tokyonight)](https://github.com/VoRaX00/Todo-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL&theme=tokyonight)](https://github.com/VoRaX00/URAL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Dentistry&theme=tokyonight)](https://github.com/VoRaX00/Dentistry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=task-plan&theme=tokyonight)](https://github.com/VoRaX00/task-plan)
 
 ### Where to find me ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikita-kerzhakov-885027330/)

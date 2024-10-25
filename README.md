@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Todo-App&theme=tokyonight)](https://github.com/VoRaX00/Todo-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=URAL&theme=tokyonight)](https://github.com/VoRaX00/URAL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Go-Jwt&theme=tokyonight)](https://github.com/VoRaX00/Go-Jwt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=Dentistry&theme=tokyonight)](https://github.com/VoRaX00/Dentistry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VoRaX00&repo=task-plan&theme=tokyonight)](https://github.com/VoRaX00/task-plan)
 
 ### Where to find me ###

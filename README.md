@@ -4,6 +4,8 @@
 ## I am a student studying in the direction of "Software Engineering" at FEFU, and I study computer science. I also study web application development on my own.
 
 ## Languages and Tools
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
 ![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
 ![Gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=3b5998)
